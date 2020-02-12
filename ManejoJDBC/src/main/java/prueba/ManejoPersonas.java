@@ -1,4 +1,4 @@
-package test;
+package prueba;
 
 import datos.PersonaJDBC;
 import domain.Persona;
@@ -13,5 +13,13 @@ public class ManejoPersonas {
         for(Persona persona : personas){
             System.out.println("Persona:" +persona);
         }
+
+        Persona persona = new Persona();
+        persona.setNombre("Enrique");
+        persona.setApellido("Guerrero");
+        persona.setEmail("guerrero@gamil.com");
+        persona.setTelefono("47582314");
+
+        //personaJDBC.insert(persona);
     }
 }

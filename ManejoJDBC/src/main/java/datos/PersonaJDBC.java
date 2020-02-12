@@ -55,4 +55,32 @@ public class PersonaJDBC {
 
         return personas;
     }
+
+    public int insert(Persona persona){
+        Connection conn = null;
+        PreparedStatement stmt = null;
+        int rows = 0;
+
+        try {
+            conn = Conexion.getConnection();
+            stmt = conn.prepareStatement(SQL_INSERT);
+            stmt.setString(1, persona.getNombre());
+            stmt.setString(2, persona.getApellido());
+            stmt.setString(3, persona.getEmail());
+            stmt.setString(4, persona.getTelefono());
+
+            System.out.println("ejecutando query: " + SQL_INSERT);
+            rows = stmt.executeUpdate();
+            System.out.println("Registro afectados: " + rows);
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        finally {
+            Conexion.close(conn);
+            Conexion.close(stmt);
+        }
+
+        return rows;
+    }
 }

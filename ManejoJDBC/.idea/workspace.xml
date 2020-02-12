@@ -1,30 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f952a9a2-e419-4dc5-b25c-7dac291937db" name="Default Changelist" comment="" />
+    <list default="true" id="f952a9a2-e419-4dc5-b25c-7dac291937db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ManejoJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datos/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datos/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datos/PersonaJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/ManejoPersonas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datos/Conexion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datos/Conexion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datos/PersonaJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datos/PersonaJDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/ManejoPersonas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/ManejoPersonas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="177" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Xfwdti4DO0lD5VLDBDCEC0RKlb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -33,11 +77,11 @@
   </component>
   <component name="RunManager">
     <configuration name="ManejoPersonas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ManejoPersonas" />
+      <option name="MAIN_CLASS_NAME" value="prueba.ManejoPersonas" />
       <module name="ManejoJDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="prueba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,40 +107,100 @@
       <updated>1581450548034</updated>
       <workItem from="1581450558535" duration="119000" />
       <workItem from="1581450712690" duration="3139000" />
+      <workItem from="1581477026511" duration="326000" />
+      <workItem from="1581477372039" duration="1999000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1581477446693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477446693" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581477659303">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477659303" />
     <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1581451948319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581451948319" />
-    <state x="740" y="222" key="FileChooserDialogImpl" timestamp="1581450675294">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1581477745528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477745528" />
+    <state x="740" y="222" key="FileChooserDialogImpl" timestamp="1581478987109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581478987109" />
     <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581450675294" />
-    <state width="1728" height="282" key="GridCell.Tab.0.bottom" timestamp="1581453860913">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581479997846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581479997846" />
     <state width="1728" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581453860913" />
-    <state width="1728" height="282" key="GridCell.Tab.0.center" timestamp="1581453860913">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581479997845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581479997845" />
     <state width="1728" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581453860913" />
-    <state width="1728" height="282" key="GridCell.Tab.0.left" timestamp="1581453860913">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581479997845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581479997845" />
     <state width="1728" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581453860913" />
-    <state width="1728" height="282" key="GridCell.Tab.0.right" timestamp="1581453860913">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581479997845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581479997845" />
     <state width="1728" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581453860913" />
-    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1581450617018">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581477841476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477841476" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581477841476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477841476" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581477841476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477841476" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581477841476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477841476" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1581478989183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581478989183" />
     <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581450617018" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1581477335997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477335997" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1581477371606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477371606" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ManejoJDBC$ManejoPersonas.ic" NAME="ManejoPersonas Coverage Results" MODIFIED="1581479967922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>prueba.*</FILTER>
+    </SUITE>
   </component>
 </project>
