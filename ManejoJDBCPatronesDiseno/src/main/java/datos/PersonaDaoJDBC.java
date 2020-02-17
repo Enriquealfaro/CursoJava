@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PersonaDaoJDBC implements PersonaDao{
+public class PersonaDaoJDBC implements PersonaDao {
 
     private Connection conexionTransaccional;
 

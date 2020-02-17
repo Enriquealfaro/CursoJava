@@ -1,8 +1,12 @@
 package prueba;
 
-import datos.*;
+import datos.Conexion;
+import datos.PersonaDao;
+import datos.PersonaDaoJDBC;
 import domain.PersonaDTO;
-import java.sql.*;
+
+import java.sql.Connection;
+import java.sql.SQLException;
 import java.util.List;
 
 public class ManejoPersonas {

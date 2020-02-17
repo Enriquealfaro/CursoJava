@@ -2,78 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f952a9a2-e419-4dc5-b25c-7dac291937db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/Laboratorio3-JDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/src/main/java/datos/Conexiones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/src/main/java/datos/UsuarioJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/src/main/java/domain/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/src/main/java/test/ManejoUsuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/target/classes/datos/Conexiones.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/target/classes/datos/UsuarioJDBC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/target/classes/domain/Usuario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/target/classes/test/ManejoUsuarios.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/Laboratorio3-JDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ManejoJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ManejoJDBCTransacciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ManejoJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datos/Conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/ManejoJDBC.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/datos/Conexion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/datos/PersonaJDBC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/domain/Persona.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/ManejoJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/ManejoJDBCTransacciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/ManejoJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/datos/Conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/datos/PersonaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/datos/PersonaDaoJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/domain/PersonaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/target/classes/datos/Conexion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/datos/PersonaJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/prueba/ManejoPersonas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/target/classes/datos/PersonaJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/target/classes/datos/PersonaJDBC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/target/classes/prueba/ManejoPersonas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPatronesDiseno/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPatronesDiseno/ManejoJDBCPatronesDiseno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPatronesDiseno/src/main/java/datos/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPatronesDiseno/src/main/java/datos/PersonaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPatronesDiseno/src/main/java/datos/PersonaDaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPatronesDiseno/src/main/java/domain/PersonaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPatronesDiseno/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/ManejoJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/ManejoJDBCTransacciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/ManejoJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/src/main/java/datos/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/src/main/java/domain/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/target/classes/META-INF/ManejoJDBC.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/target/classes/datos/Conexion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/target/classes/datos/PersonaJDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/target/classes/domain/Persona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCPullConexion/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/ManejoJDBC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/ManejoJDBCTransacciones.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/ManejoJDBC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/datos/Conexion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/datos/PersonaDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/datos/PersonaDaoJDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/domain/PersonaDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/src/main/java/prueba/ManejoPersonas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/target/classes/datos/Conexion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/target/classes/datos/PersonaDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/target/classes/datos/PersonaDaoJDBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/target/classes/domain/PersonaDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o/target/classes/prueba/ManejoPersonas.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +109,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Xfwdti4DO0lD5VLDBDCEC0RKlb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -144,18 +123,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ManejoJDBCTransaccionesPatronesDise;o" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\CursoJava" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\CursoJava\ManejoJDBC\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CursoJava" />
     </key>
   </component>
   <component name="RunManager">
@@ -211,6 +190,7 @@
       <workItem from="1581828188147" duration="3413000" />
       <workItem from="1581868874596" duration="3973000" />
       <workItem from="1581899156460" duration="933000" />
+      <workItem from="1581900960414" duration="425000" />
     </task>
     <servers />
   </component>
@@ -263,10 +243,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="281" key="EnvironmentVariablesDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581830497347" />
-    <state x="740" y="222" key="FileChooserDialogImpl" timestamp="1581896985185">
+    <state x="740" y="222" key="FileChooserDialogImpl" timestamp="1581901380847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581896985185" />
+    <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581901380847" />
     <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581450675294" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1581831622066">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -304,23 +284,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581831622066" />
-    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1581478989183">
+    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1581901383261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581478989183" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581901383261" />
     <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581450617018" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1581828239744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581828239744" />
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1581874089535">
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1581900962247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581874089535" />
-    <state x="342" y="140" key="new project wizard" timestamp="1581652155142">
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581900962247" />
+    <state x="342" y="140" key="new project wizard" timestamp="1581900971650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581652155142" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581900971650" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ManejoJDBC$ManejoPersonas.ic" NAME="ManejoPersonas Coverage Results" MODIFIED="1581479967922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
