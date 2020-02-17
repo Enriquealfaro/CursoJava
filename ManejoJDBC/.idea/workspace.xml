@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f952a9a2-e419-4dc5-b25c-7dac291937db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/ManejoJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/ManejoJDBCTransacciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/ManejoJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/src/main/java/datos/Conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/src/main/java/domain/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/META-INF/ManejoJDBC.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/datos/Conexion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/datos/PersonaJDBC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/domain/Persona.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datos/PersonaJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/ManejoPersonas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datos/PersonaJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datos/PersonaJDBC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prueba/ManejoPersonas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +27,6 @@
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -91,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laboratorio3-JDBC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ManejoJDBCTransacciones" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -154,6 +118,7 @@
       <workItem from="1581647898943" duration="7730000" />
       <workItem from="1581821262250" duration="940000" />
       <workItem from="1581889001211" duration="178000" />
+      <workItem from="1581950229897" duration="49000" />
     </task>
     <servers />
   </component>
@@ -190,11 +155,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477745528" />
-    <state x="740" y="222" key="FileChooserDialogImpl" timestamp="1581889176580">
+    <state x="740" y="222" key="FileChooserDialogImpl" timestamp="1581950276864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581889176580" />
-    <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581450675294" />
+    <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581950276864" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581657545165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -240,10 +205,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477335997" />
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1581827838550">
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1581950257546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581827838550" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581950257546" />
     <state x="342" y="140" key="new project wizard" timestamp="1581889100611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
