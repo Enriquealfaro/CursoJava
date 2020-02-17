@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed04e2c-48e0-4a6f-a3de-f0d98f9358f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBC/.idea/ManejoJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBC/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ManejoJDBC/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ManejoJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/datos/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/datos/Conexion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/datos/PersonaJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/test/ManejoPersonas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/target/classes/datos/Conexion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/target/classes/datos/Conexion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/target/classes/datos/PersonaJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/target/classes/datos/PersonaJDBC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/target/classes/test/ManejoPersonas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +83,7 @@
       <workItem from="1581437504131" duration="4008000" />
       <workItem from="1581450621647" duration="24000" />
       <workItem from="1581450678684" duration="644000" />
-      <workItem from="1581478991893" duration="621000" />
+      <workItem from="1581478991893" duration="625000" />
     </task>
     <servers />
   </component>

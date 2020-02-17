@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f952a9a2-e419-4dc5-b25c-7dac291937db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/Laboratorio3-JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/src/main/java/datos/Conexiones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/src/main/java/datos/UsuarioJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/src/main/java/domain/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/src/main/java/test/ManejoUsuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/target/classes/datos/Conexiones.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/target/classes/datos/UsuarioJDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/target/classes/domain/Usuario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC-Trasaccional/target/classes/test/ManejoUsuarios.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratorio3-JDBC/Laboratorio3-JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/ManejoJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/ManejoJDBCTransacciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/ManejoJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/src/main/java/datos/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/src/main/java/domain/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/META-INF/ManejoJDBC.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/datos/Conexion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/datos/PersonaJDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/domain/Persona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJDBCTransacciones/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ManejoJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ManejoJDBCTransacciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManejoJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datos/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datos/PersonaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datos/PersonaDaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/PersonaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/datos/Conexion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/datos/PersonaJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/datos/PersonaJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/prueba/ManejoPersonas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/src/main/java/prueba/ManejoPersonas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/target/classes/datos/PersonaJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/target/classes/datos/PersonaJDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManejoJDBC/target/classes/prueba/ManejoPersonas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ManejoJDBC/target/classes/prueba/ManejoPersonas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="161" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xfwdti4DO0lD5VLDBDCEC0RKlb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CursoJava\ManejoJDBCTransaccionesPatronesDise;o\src\main\java\domain\PersonaDTO.java" />
+      <recent name="C:\CursoJava\ManejoJDBC\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ManejoPersonas" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="prueba.ManejoPersonas" />
+      <module name="ManejoJDBCTransaccionesPatronesDise;o" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:test@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:test@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@62ea96e9" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f952a9a2-e419-4dc5-b25c-7dac291937db" name="Default Changelist" comment="" />
+      <created>1581450548034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581450548034</updated>
+      <workItem from="1581450558535" duration="119000" />
+      <workItem from="1581450712690" duration="3139000" />
+      <workItem from="1581477026511" duration="326000" />
+      <workItem from="1581477372039" duration="2388000" />
+      <workItem from="1581647898943" duration="7730000" />
+      <workItem from="1581821262250" duration="601000" />
+      <workItem from="1581828188147" duration="3413000" />
+      <workItem from="1581868874596" duration="3823000" />
+      <workItem from="1581896988517" duration="1702000" />
+      <workItem from="1581898708531" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="178" width="584" height="683" key="#ManejoPersonas" timestamp="1581898277341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="178" width="584" height="683" key="#ManejoPersonas/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581898277341" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1581477446693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477446693" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581899481047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581899481047" />
+    <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581830760792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581830760792" />
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1581451948319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581451948319" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581898772916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581898772916" />
+    <state x="697" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581897213616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581897213616" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1581477745528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581477745528" />
+    <state x="694" y="281" key="EnvironmentVariablesDialog" timestamp="1581830497347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="281" key="EnvironmentVariablesDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581830497347" />
+    <state x="740" y="222" key="FileChooserDialogImpl" timestamp="1581899149786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581899149786" />
+    <state x="740" y="222" key="FileChooserDialogImpl/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581450675294" />
+    <state width="1239" height="228" key="GridCell.Tab.0.bottom" timestamp="1581899483732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1239" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581899483732" />
+    <state width="1728" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581453860913" />
+    <state width="1239" height="228" key="GridCell.Tab.0.center" timestamp="1581899483732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1239" height="228" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581899483732" />
+    <state width="1728" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581453860913" />
+    <state width="1239" height="228" key="GridCell.Tab.0.left" timestamp="1581899483732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1239" height="228" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581899483732" />
+    <state width="1728" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581453860913" />
+    <state width="1239" height="228" key="GridCell.Tab.0.right" timestamp="1581899483732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1239" height="228" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581899483732" />
+    <state width="1728" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581453860913" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581898694872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581898694872" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581898694872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581898694872" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581898694872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581898694872" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581898694872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581898694872" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1581899151316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581899151316" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/-1920.176.1536.824@0.0.1920.1040" timestamp="1581450617018" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1581898556516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581898556516" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1581874089535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581874089535" />
+    <state x="342" y="140" key="new project wizard" timestamp="1581898850943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1920.-163.1920.1040@0.0.1920.1040" timestamp="1581898850943" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ManejoJDBC$ManejoPersonas.ic" NAME="ManejoPersonas Coverage Results" MODIFIED="1581479967922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>prueba.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ManejoJDBCTransaccionesPatronesDise_o$ManejoPersonas.ic" NAME="ManejoPersonas Coverage Results" MODIFIED="1581898472505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>prueba.*</FILTER>
+    </SUITE>
+  </component>
+</project>
