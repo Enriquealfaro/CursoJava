@@ -24,7 +24,7 @@ public class Servlet extends HttpServlet{
         out.print("<br>");
         out.print("El paramentro password es: " + password);
         out.print("</body>");
-        out.print("/html>");
+        out.print("</html>");
         out.close();
     }
 }
