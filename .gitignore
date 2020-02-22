@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /JavaEE/HolaMundoJavaWeb/target/
 /Servlets/HolaMundoServlets/target/
 /Servlets/ManejoParametros/target/
@@ -13,3 +14,10 @@
 /CursosJSPs/HolaMundoJSP/target/
 /CursosJSPs/ExpresionesJPSs/target/
 /CursosJSPs/ScripletsJSP/target/
+=======
+/CursosJSPs/DeclaracionJSP/target/
+/CursosJSPs/DocumentosJSP/target/
+/CursosJSPs/EjemploInclusionEstatica/target/
+/CursosJSPs/EjemploInclusionDinamica/target/
+/CursosJSPs/ManejoJavaBeans/target/
+>>>>>>> 638958b20dec8c69ba51913890baa2e2d74661e6
