@@ -1,0 +1,4 @@
+com\enriqueAlfaro\sga\servicio\PersonaServiceImpl.class
+com\enriqueAlfaro\sga\servicio\PersonaServiceRemote.class
+com\enriqueAlfaroi\sga\cliente\ClientePersonaService.class
+com\enriqueAlfaro\sga\domain\Persona.class
