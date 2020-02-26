@@ -1,42 +1,47 @@
 
 package com.enriqueAlfaro.sga.servicio;
 
+import com.enriqueAlfaro.sga.datos.PersonaDao;
 import com.enriqueAlfaro.sga.domain.Persona;
 import java.util.ArrayList;
 import java.util.List;
 import javax.ejb.Stateless;
+import javax.inject.Inject;
 
 @Stateless
 public class PersonaServiceImpl implements PersonaServiceRemote, PersonaService{
 
+    @Inject
+    private PersonaDao personaDao;
+    
     @Override
     public List<Persona> listarPersona() {
-       return  null;
+       return  personaDao.findAllPersonas();
     }
 
     @Override
     public Persona encontrarPersonaPorId(Persona persona) {
-        return null;
+        return personaDao.findPersonaById(persona);
     }
 
     @Override
     public Persona encontrarPersonaPorEmail(Persona persona) {
-        return null;
+        return personaDao.findPersonaByEmail(persona);
     }
 
     @Override
     public void registrarPersona(Persona persona) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+      personaDao.insertPersona(persona);
     }
 
     @Override
     public void modificarPersona(Persona persona) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+       personaDao.updatePersona(persona);
     }
 
     @Override
     public void eliminarPersona(Persona persona) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+       personaDao.deletePersona(persona);
     }
     
 }
