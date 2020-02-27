@@ -13,7 +13,7 @@ public class PruebaManejoTransacicones {
     public static void main(String[] args) {
         try {
             Context jndi = new InitialContext();
-            PersonaServiceRemote personaService = (PersonaServiceRemote) jndi.lookup("mx.com.gm.sga.servicio.PersonaServiceRemote#mx.com.gm.sga.servicio.PersonaServiceRemote");
+            PersonaServiceRemote personaService = (PersonaServiceRemote) jndi.lookup("java:global/sga-jee-web/PersonaServiceImpl!mx.com.gm.sga.servicio.PersonaServiceRemote");
             
             log.debug("Iniciando prueba Manejo Transaccional PersonaService");
             
@@ -23,7 +23,7 @@ public class PruebaManejoTransacicones {
             
             log.debug("Persona recuperada: " + persona1);
         } catch (NamingException ex) {
-           log.debug(ex.getMessage());
+          ex.printStackTrace(System.out);
         }
     }
 }

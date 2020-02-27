@@ -14,7 +14,7 @@ public class ClientePersonaService {
         System.err.println("Iniciando llamada al EJB desde el cliente\n");
         try {
             Context jndi = new InitialContext();
-            PersonaServiceRemote personaServiceRemote = (PersonaServiceRemote)jndi.lookup("java:global/sga-Jee/PersonaServiceImpl!com.enriqueAlfaro.sga.servicio.PersonaServiceRemote");
+            PersonaServiceRemote personaServiceRemote = (PersonaServiceRemote)jndi.lookup("java:global/sga-jee-web/PersonaServiceImpl!mx.com.gm.sga.servicio.PersonaServiceRemote");
             List<Persona> personas = personaServiceRemote.listarPersona();
             for(Persona persona: personas){
                 System.out.println("Personas: " + persona);
