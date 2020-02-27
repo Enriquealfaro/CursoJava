@@ -1,0 +1,5 @@
+com\enriqueAlfaroi\sga\cliente\PruebaManejoTransacicones.class
+com\enriqueAlfaro\sga\domain\Usuario.class
+com\enriqueAlfaro\sga\servicio\PersonaServiceRemote.class
+com\enriqueAlfaroi\sga\cliente\ClientePersonaService.class
+com\enriqueAlfaro\sga\domain\Persona.class
