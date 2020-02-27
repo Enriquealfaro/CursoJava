@@ -1,45 +1,47 @@
 
 package com.enriqueAlfaro.sga.servicio;
 
+import com.enriqueAlfaro.sga.datos.PersonaDao;
 import com.enriqueAlfaro.sga.domain.Persona;
 import java.util.ArrayList;
 import java.util.List;
 import javax.ejb.Stateless;
+import javax.inject.Inject;
 
 @Stateless
 public class PersonaServiceImpl implements PersonaServiceRemote, PersonaService{
 
+    @Inject
+    private PersonaDao personaDao;
+    
     @Override
     public List<Persona> listarPersona() {
-       List<Persona> personas = new ArrayList<>();
-       personas.add(new Persona(1,"Enrique", "Alfaro","enrique@gmail.com","45789632"));
-       personas.add(new Persona(1,"Pedro", "Montero","montero@gmail.com","879652314"));    
-       return personas;
+       return  personaDao.findAllPersonas();
     }
 
     @Override
     public Persona encontrarPersonaPorId(Persona persona) {
-        return null;
+        return personaDao.findPersonaById(persona);
     }
 
     @Override
     public Persona encontrarPersonaPorEmail(Persona persona) {
-        return null;
+        return personaDao.findPersonaByEmail(persona);
     }
 
     @Override
     public void registrarPersona(Persona persona) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+      personaDao.insertPersona(persona);
     }
 
     @Override
     public void modificarPersona(Persona persona) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+       personaDao.updatePersona(persona);
     }
 
     @Override
     public void eliminarPersona(Persona persona) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+       personaDao.deletePersona(persona);
     }
     
 }
