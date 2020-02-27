@@ -1,5 +1,10 @@
 com\enriqueAlfaro\sga\servicio\PersonaService.class
 com\enriqueAlfaro\sga\web\PersonaServlet.class
+<<<<<<< HEAD
+com\enriqueAlfaro\sga\datos\PersonaDaoImp.class
+com\enriqueAlfaro\sga\datos\PersonaDao.class
+=======
+>>>>>>> proyectosTrabajo
 com\enriqueAlfaro\sga\servicio\PersonaServiceImpl.class
 com\enriqueAlfaro\sga\servicio\PersonaServiceRemote.class
 com\enriqueAlfaro\sga\domain\Persona.class

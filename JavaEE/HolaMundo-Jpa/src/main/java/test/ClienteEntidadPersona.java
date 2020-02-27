@@ -21,7 +21,7 @@ public class ClienteEntidadPersona {
         //No se debe especificar el ID de la base de datos
         Persona persona1 = new Persona("Maria","Gutierrez","mgutierrez@mail.com","88991199");
         log.debug("Objeto a persistir:" + persona1);
-        //Persistimos el objeto
+        //Persistimos el objeto/guardar/insertar
         em.persist(persona1);
         //terminamos la transaccion
         tx.commit();
