@@ -8,14 +8,23 @@ import javax.ejb.Stateless;
 import javax.inject.Inject;
 
 @Stateless
+<<<<<<< HEAD
 public class PersonaServiceImpl implements PersonaServiceRemote, PersonaService {
     
+=======
+public class PersonaServiceImpl implements PersonaServiceRemote, PersonaService{
+
+>>>>>>> proyectosTrabajo
     @Inject
     private PersonaDao personaDao;
     
     @Override
     public List<Persona> listarPersona() {
+<<<<<<< HEAD
         return personaDao.findAllPersonas();
+=======
+       return  personaDao.findAllPersonas();
+>>>>>>> proyectosTrabajo
     }
     
     @Override
@@ -30,17 +39,29 @@ public class PersonaServiceImpl implements PersonaServiceRemote, PersonaService 
     
     @Override
     public void registrarPersona(Persona persona) {
+<<<<<<< HEAD
         personaDao.insertPersona(persona);
+=======
+      personaDao.insertPersona(persona);
+>>>>>>> proyectosTrabajo
     }
     
     @Override
     public void modificarPersona(Persona persona) {
+<<<<<<< HEAD
         personaDao.updatePersona(persona);
+=======
+       personaDao.updatePersona(persona);
+>>>>>>> proyectosTrabajo
     }
     
     @Override
     public void eliminarPersona(Persona persona) {
+<<<<<<< HEAD
         personaDao.deletePersona(persona);
+=======
+       personaDao.deletePersona(persona);
+>>>>>>> proyectosTrabajo
     }
     
 }

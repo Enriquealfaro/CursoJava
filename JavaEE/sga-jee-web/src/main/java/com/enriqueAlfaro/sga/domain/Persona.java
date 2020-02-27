@@ -6,9 +6,14 @@ import javax.persistence.*;
 
 @Entity
 @NamedQueries({
+<<<<<<< HEAD
 @NamedQuery(name="Persona.findAll", query="SELECT p FROM Persona P ORDER BY p.idPersona")
 })
 
+=======
+    @NamedQuery(name="Persona.findAll", query="SELECT P FROM Persona p persona BY p.idPersona")
+})
+>>>>>>> proyectosTrabajo
 @Table(name="persona")
 public class Persona implements Serializable{
     private static final long serialVersionUID = 1L;
